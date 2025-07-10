@@ -10,7 +10,7 @@
         "pathMode": "open-api"
       },
       "get": {
-        "summary": "Test route",
+        "summary": "Test Secret Route",
         "description": "",
         "x-zuplo-route": {
           "corsPolicy": "none",
